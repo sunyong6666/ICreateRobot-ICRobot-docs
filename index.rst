@@ -9,7 +9,7 @@ Welcome
 
 
 
-   docs/ICRbot/index
+   docs/ICRobot/index
    
    
 
