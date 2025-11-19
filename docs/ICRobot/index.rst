@@ -6,7 +6,8 @@ ICRobot
 
 
    
-   04OperationManual/index
+   
+   06CurriculumCaseStudies.md
 
 
 
