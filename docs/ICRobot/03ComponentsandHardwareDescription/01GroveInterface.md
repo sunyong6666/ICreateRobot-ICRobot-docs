@@ -23,9 +23,7 @@
 
 ## <font style="color:rgba(0, 0, 0, 0.9);">Example: Robotic Gripper Object Pickup</font>
 ### Connection Components:
-| ![](img/G2.png) | ![](img/G3.png) | ![](img/G4.png) |
-| :---: | :---: | :---: |
-| Robotic Gripper ×1 | ICRobot ×1 | Grove Cable ×1 |
+
 
 
 Steps:
