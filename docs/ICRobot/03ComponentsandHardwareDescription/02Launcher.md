@@ -1,5 +1,5 @@
 # Launcher
-![](img/LA1.png)
+
 
 ## Introduction
 ICRobot is equipped with a launcher, programmable control of the number of launches of marble launching device, built-in high-speed motors, and an elastic energy storage structure to ensure the smooth launch of marbles. The internally integrated current detection sensor can monitor the launching status in real time, improving the intelligence and reliability of the system.
