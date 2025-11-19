@@ -24,6 +24,20 @@
 ## <font style="color:rgba(0, 0, 0, 0.9);">Example: Robotic Gripper Object Pickup</font>
 ### Connection Components:
 
+Steps:
+
+1. Insert one end of the Grove cable into the gripper’s Grove port (as shown in position “” above).
+2. Connect the other end of the Grove cable to any Grove port on the ICRobot — in this example, to Port 2 (as shown in position “” above).
+
+### Programming:
+![](img/G5.png)
+
+### Demonstration
+![](img/G6.gif)
+
+### 
+#### 
+<font style="color:rgba(0, 0, 0, 0.9);"></font>
 
 
 
