@@ -1,5 +1,5 @@
 # Grove Interface
-## ![](img/G1.png)
+![](img/G1.png)
 ## Introduction
 <font style="color:rgba(0, 0, 0, 0.9);">The product is equipped with four standardized modular connection ports (Grove interfaces), which are widely used in the open-source hardware field.</font>
 
@@ -26,18 +26,5 @@
 
 
 
-Steps:
 
-1. Insert one end of the Grove cable into the gripper’s Grove port (as shown in position “①” above).
-2. Connect the other end of the Grove cable to any Grove port on the ICRobot — in this example, to Port 2 (as shown in position “②” above).
-
-### Programming:
-![](img/G5.png)
-
-### Demonstration
-![](img/G6.gif)
-
-### 
-#### 
-<font style="color:rgba(0, 0, 0, 0.9);"></font>
 
