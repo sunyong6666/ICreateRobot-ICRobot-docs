@@ -1,4 +1,4 @@
-## \# Software-Related Issues
+## Software-Related Issues
 
 ## Robot issues persist after firmware upgrade via “ICreateCode.exe”
 
