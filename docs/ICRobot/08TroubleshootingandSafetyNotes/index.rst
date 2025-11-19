@@ -3,3 +3,4 @@
 
 
    02UsagePrecautions.md
+   01TroubleshootingDiagnostics/index
