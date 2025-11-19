@@ -35,9 +35,7 @@ Steps:
 ### Demonstration
 ![](img/G6.gif)
 
-### 
-#### 
-<font style="color:rgba(0, 0, 0, 0.9);"></font>
+
 
 
 
