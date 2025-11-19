@@ -9,6 +9,7 @@ ICRobot
    02QuickStart/index
    03ComponentsandHardwareDescription/index
    04ProgrammingSoftware/index
+   04OperationManual/index
 
 
 
