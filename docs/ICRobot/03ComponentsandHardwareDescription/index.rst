@@ -10,9 +10,4 @@
     05Camera.md
     06MovementModule.md
     07FivewayColorGraySensor.md
-    08Speaker.md
-    09FunctionButton.md
-    10ProgrammableTailLightModule.md
-    11Microphone.md
-    12ComponentUsageExamples.md
    
