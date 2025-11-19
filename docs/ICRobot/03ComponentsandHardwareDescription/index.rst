@@ -12,3 +12,4 @@
     07FivewayColorGraySensor.md
     08Speaker.md
     09FunctionButton.md
+    10ProgrammableTailLightModule.md
