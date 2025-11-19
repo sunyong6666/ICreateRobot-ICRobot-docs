@@ -26,8 +26,7 @@
 
 
 
-### Programming:
-![](img/G5.png)
+
 
 ### Demonstration
 ![](img/G6.gif)
