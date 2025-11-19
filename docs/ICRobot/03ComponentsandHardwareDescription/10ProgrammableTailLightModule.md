@@ -8,7 +8,6 @@ The programmable taillight has a practical power display function. The robot's p
 
 | ![](img/P1.png) | ![](img/P2.png) | ![](img/P3.png) | ![](img/P4.png) |
 | --------------- | --------------- | --------------- | --------------- |
-| Image P1        | Image P2        | Image P3        | Image P4        |
 
 
 
