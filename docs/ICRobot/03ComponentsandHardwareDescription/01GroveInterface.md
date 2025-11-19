@@ -3,13 +3,7 @@
 ## Introduction
 <font style="color:rgba(0, 0, 0, 0.9);">The product is equipped with four standardized modular connection ports (Grove interfaces), which are widely used in the open-source hardware field.</font>
 
-## Pin Description
-| Pin No. | Description |
-| :---: | :---: |
-| 1 | Signal line, e.g., SCL pin of I²C |
-| 2 | Signal line, e.g., SDA pin of I²C |
-| 3 | <font style="color:rgba(0, 0, 0, 0.9);">Power positive (VCC)</font> |
-| 4 | <font style="color:rgba(0, 0, 0, 0.9);">Power ground (GND)</font> |
+
 
 
 ## Instructions for Use
