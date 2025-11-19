@@ -36,8 +36,8 @@
 
 Steps:
 
-1. Insert one end of the Grove cable into the gripper’s Grove port (as shown in position “①” above).
-2. Connect the other end of the Grove cable to any Grove port on the ICRobot — in this example, to Port 2 (as shown in position “②” above).
+1. Insert one end of the Grove cable into the gripper’s Grove port (as shown in position “” above).
+2. Connect the other end of the Grove cable to any Grove port on the ICRobot — in this example, to Port 2 (as shown in position “” above).
 
 ### Programming:
 ![](img/G5.png)
