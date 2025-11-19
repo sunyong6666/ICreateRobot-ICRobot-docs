@@ -14,7 +14,6 @@ The programmable taillight has a practical power display function. The robot's p
 2. <font style="color:rgba(0, 0, 0, 0.9);">Charging Behavior Overview:</font>
 
 | Robot Status | Device Not Running Program | Device Running Program |
-| --- | --- | --- |
 | Powered Off | Breathing light shows the colour of the charging power level, and the constant green light shows full charge. | ———— |
 | Powered On | Battery colour is always on | Display of colours after programming control |
 
