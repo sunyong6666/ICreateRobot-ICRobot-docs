@@ -13,10 +13,7 @@ The programmable taillight has a practical power display function. The robot's p
 1. <font style="color:rgba(0, 0, 0, 0.9);">At Startup: By default, the tail light displays battery level using the gradient color scheme described above.</font>
 2. <font style="color:rgba(0, 0, 0, 0.9);">Charging Behavior Overview:</font>
 
-| Robot Status | Device Not Running Program | Device Running Program |
-| --- | :---: | :---: |
-| <br/>Powered Off | Breathing light shows the colour of the charging power level, and the constant green light shows full charge. | <br/><br/>———— |
-|          Powered On | Battery colour is always on | Display of colours after programming control |
+
 
 
 ### [Demonstration](https://www.yuque.com/alexzhao-gaou9/icreaterobot/qd0d7ue8y0sckggb)
