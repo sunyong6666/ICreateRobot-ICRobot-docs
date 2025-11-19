@@ -10,4 +10,4 @@
     05Camera.md
     06MovementModule.md
     07FivewayColorGraySensor.md
-   
+    08Speaker.md
