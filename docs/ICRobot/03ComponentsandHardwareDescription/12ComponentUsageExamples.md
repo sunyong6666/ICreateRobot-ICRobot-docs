@@ -1,7 +1,7 @@
 # Component Usage Examples
 ## Launcher
 ### Usage Instructions
-| ![](img/C1.png?x-oss-process=image%2Fformat%2Cwebp) | ![](img/C2.png?x-oss-process=image%2Fformat%2Cwebp) | ![](img/C3.png?x-oss-process=image%2Fformat%2Cwebp) |
+| ![](img/C1.png) | ![](img/C2.png) | ![](img/C3.png) |
 | --- | --- | --- |
 | Launcher ×1 | ICRobot ×1 | Grove Cable×1 |
 
@@ -25,7 +25,7 @@ Steps:
 ## Robotic Gripper
 ### Usage Instructions
 ### Connections
-| ![](img/C6.png?x-oss-process=image%2Fformat%2Cwebp) | ![](img/C7.png?x-oss-process=image%2Fformat%2Cwebp) | ![](img/C8.png?x-oss-process=image%2Fformat%2Cwebp) |
+| ![](img/C6.png) | ![](img/C7.png) | ![](img/C8.png) |
 | --- | --- | --- |
 | Robotic Gripper ×1 | ICRobot ×1 | Grove Cable ×1 |
 
@@ -59,7 +59,7 @@ Program description: When the green flag is clicked, set the camera screen loade
 ![](img/C13.png)
 
 ### Demonstration
-![](img/C14.png?x-oss-process=image%2Fformat%2Cwebp)
+![](img/C14.png)
 
 ## Movement Module 
 ### Example Program: Walking Square.
