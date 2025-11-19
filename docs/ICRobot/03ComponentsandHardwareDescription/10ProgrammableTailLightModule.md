@@ -6,13 +6,17 @@ The programmable tail light at the rear not only has a practical power display f
 ### <font style="color:rgba(0, 0, 0, 0.9);">Battery Level Indicator</font>
 The programmable taillight has a practical power display function. The robot's power status is clearly and intuitively presented through a gradation of four colours: green, yellow, orange and red. Green represents sufficient power (100%), yellow alerts moderate power (75%), orange indicates low power (50%), and red warns of insufficient power (25%).
 
-
+| ![](img/P1.png) | ![](img/P2.png) | ![](img/P3.png) | ![](img/P4.png) |
+| --- | --- | --- | --- |
 
 
 1. <font style="color:rgba(0, 0, 0, 0.9);">At Startup: By default, the tail light displays battery level using the gradient color scheme described above.</font>
 2. <font style="color:rgba(0, 0, 0, 0.9);">Charging Behavior Overview:</font>
 
-
+| Robot Status | Device Not Running Program | Device Running Program |
+| --- | :---: | :---: |
+| Powered Off | Breathing light shows the colour of the charging power level, and the constant green light shows full charge. | ———— |
+| Powered On | Battery colour is always on | Display of colours after programming control |
 
 
 ### [Demonstration](https://www.yuque.com/alexzhao-gaou9/icreaterobot/qd0d7ue8y0sckggb)
