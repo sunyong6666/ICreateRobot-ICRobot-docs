@@ -8,7 +8,7 @@ The programmable taillight has a practical power display function. The robot's p
 
 | ![](img/P1.png) | ![](img/P2.png) | ![](img/P3.png) | ![](img/P4.png) |
 | --------------- | --------------- | --------------- | --------------- |
-
+| 1        | 2        | 3        | 4        |
 
 
 1. <font style="color:rgba(0, 0, 0, 0.9);">At Startup: By default, the tail light displays battery level using the gradient color scheme described above.</font>
