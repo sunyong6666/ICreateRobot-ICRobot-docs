@@ -6,8 +6,7 @@ ICRobot
 
 
    
-   
-   06CurriculumCaseStudies.md
+   07FirmwareManagement/index
 
 
 
