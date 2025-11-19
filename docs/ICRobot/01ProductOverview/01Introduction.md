@@ -1,6 +1,6 @@
 # Introduction
 ## Design Concept
-![](img/IN1.jpeg)
+![](img/IN1.jpg)
 
 ICRobot is an intelligent coding robot that integrates AI technology, featuring powerful functions such as color recognition, object tracking, voice interaction, and wireless image transmission. It is equipped with a visual block-based programming interface that supports both graphical programming and Python development, making it suitable for learners from beginner to advanced levels.
 
