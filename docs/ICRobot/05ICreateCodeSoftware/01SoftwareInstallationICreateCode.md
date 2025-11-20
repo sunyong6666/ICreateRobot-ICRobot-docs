@@ -24,11 +24,11 @@ You can download the ICreateCode installation package from the official [ICreate
 
 <font style="color:rgb(23, 26, 29);">Note: You will be prompted to choose whether to install the software for the current user only or for all users on the computer. The difference is as follows:</font>
 
-    1. <font style="color:rgb(23, 26, 29);">Install for me only : </font>
+
 
 <font style="color:rgb(23, 26, 29);">This option installs the software for the current user account only. After installation, only this user can access and use the software.</font>
 
-    2. <font style="color:rgb(23, 26, 29);">Install for anyone using this computer (all users):</font>
+    
 
 <font style="color:rgb(23, 26, 29);">This option installs the software for all user accounts on the computer. Any user on this device will be able to run the software.</font>
 
