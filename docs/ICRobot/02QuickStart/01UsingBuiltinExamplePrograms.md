@@ -16,7 +16,7 @@ Note: In download mode on the software, the built-in sample programs can be repl
 
 ![](img/U1.gif)
 
-## <font style="background-color:#FFFFFF;">Descriptions of 5 Built-in Programs</font>
+## Descriptions of 5 Built-in Programs</font>
 ### <1> : Line-Following Robot
 **Program Introduction: **After entering the program, the robot does automatic line patrol.
 
