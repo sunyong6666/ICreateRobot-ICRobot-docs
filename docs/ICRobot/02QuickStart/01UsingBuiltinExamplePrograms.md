@@ -124,7 +124,7 @@ while True:
 
 **Operation steps:**
 
-  a. Connect the powered-on ICRobot robot to the APP, refer to <font style="color:#117CEE;">[Bluetooth Mode (BT)](https://www.yuque.com/alexzhao-gaou9/icreaterobot/qd0d7ue8y0sckggb)</font> for connection operation.
+  a. Connect the powered-on ICRobot robot to the APP, refer to <font style="color:#117CEE;">[Bluetooth Mode (BT)](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/03BluetoothModeBTMode.html)</font> for connection operation.
 
   b. Press ICRobot A/B button to switch to programme <4> and select it. 
 
