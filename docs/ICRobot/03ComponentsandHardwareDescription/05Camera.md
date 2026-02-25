@@ -5,4 +5,4 @@
 ## Usage Instructions
 Can be programmed to control the camera to turn on and off, etc. Refer to the block guide for specific programming instructions.
 
-### [Demonstration](https://www.yuque.com/alexzhao-gaou9/icreaterobot/qd0d7ue8y0sckggb)
+### [Demonstration](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/03ComponentsandHardwareDescription/12ComponentUsageExamples.html#)
