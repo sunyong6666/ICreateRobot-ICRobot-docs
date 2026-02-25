@@ -16,4 +16,4 @@ The speaker has the following functions after updating the Xiaozhi AI firmware:
 
 1. It can achieve sound output during intelligent dialogue;
 
-### [Demonstration](https://www.yuque.com/alexzhao-gaou9/icreaterobot/qd0d7ue8y0sckggb)
+### [Demonstration](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/03ComponentsandHardwareDescription/12ComponentUsageExamples.html#)
