@@ -14,4 +14,4 @@ Combined with a five-way greyscale colour sensor, ICRobot applications encompass
 | <br/>Colour Mode | In colour mode, the sensor processes the detected surface information and recognises it as one of the following nine colours: red, orange, yellow, green, cyan, blue, purple, black and white. |
 
 
-### [Demonstration](https://www.yuque.com/alexzhao-gaou9/icreaterobot/qd0d7ue8y0sckggb)
+### [Demonstration](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/03ComponentsandHardwareDescription/12ComponentUsageExamples.html#)
