@@ -7,4 +7,4 @@
 
 2. Two-side motor linkage control, if one side of the track is blocked, the other side of the motor will also stop.
 
-### [Demonstration](https://www.yuque.com/alexzhao-gaou9/icreaterobot/qd0d7ue8y0sckggb)
+### [Demonstration](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/03ComponentsandHardwareDescription/12ComponentUsageExamples.html#)
