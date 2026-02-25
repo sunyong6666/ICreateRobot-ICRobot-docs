@@ -1,4 +1,4 @@
-\# Usage Precautions
+# Usage Precautions
 
 Please pay attention to the following points during product use:
 
