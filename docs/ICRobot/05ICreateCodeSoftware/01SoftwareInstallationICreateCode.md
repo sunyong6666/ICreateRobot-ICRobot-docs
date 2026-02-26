@@ -5,7 +5,7 @@ The ICreateCode programming software supports both Windows and macOS platforms.
 Windows: Requires 64-bit Windows 10 or later;
 
 ## Download
-You can download the ICreateCode installation package from the official [ICreateRobot](https://www.icrobot.com/www/cn/index.html#/file/index?type2=ICRobot) website.
+You can download the ICreateCode software installation package from Google Drive. [Click to download](https://www.icrobot.com/www/cn/index.html#/file/index?type2=ICRobot) 
 
 ## Installation Steps
 1. Locate the downloaded installation file on your computer. Double-click the file to begin installation.
