@@ -14,9 +14,7 @@ In BT Mode, the ICRobot connects via Bluetooth to either: the ICRemote app on a 
 
 
 ### Download the App
-Scan the QR code or visit the[ ICreateRobot](https://www.icrobot.com/www/cn/index.html#/file/index?type2=ICRobot) official website to download the installation package.
-
-![](img/BL05.png)
+Scan the QR code or visit the[ ICreateRobot](https://drive.google.com/drive/folders/1BelSOfzXOhKQjtSsvhnTnV4FC-a3zJ6A?usp=sharing) official website to download the installation package.
 
 ### Steps
 | ![](img/BL06.png) | ![](img/BL07.png) |
