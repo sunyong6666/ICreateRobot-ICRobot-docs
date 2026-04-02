@@ -8,12 +8,12 @@ Step 2. Connect ICRobot to configure the network operation, details can refer to
 
 ## Connect & Configure Wi-Fi
 ### Wi-Fi Setup
-| ![](img/X1.jpeg) | ![](img/X2.jpeg) |
+| ![](img/X1.jpg) | ![](img/X2.jpg) |
 | --- | --- |
 | On your mobile device, go to Settings > Wi-Fi. | Select the network XiaoZhi-XXXX, where XXXX represents the last 4 digits of the MAC address. |
-| ![](img/X3.jpeg) | ![](img/X4.jpeg) |
+| ![](img/X3.jpg) | ![](img/X4.jpg) |
 | Your phone should automatically redirect to the network configuration page. | If your phone does not auto-redirect, open a browser and manually enter:<br/>[http://192.168.4.1](http://192.168.4.1)<br/>This will take you to the same configuration page. |
-| ![](img/X5.jpeg) | ![](img/X6.jpeg) |
+| ![](img/X5.jpg) | ![](img/X6.jpg) |
 | ● If you select the wifi name (SSID) from below, you only need to fill in the password.<br/>● or Manually fill in the wifi network name (SSID) and password to connect to the network. | After clicking Connect, the connection is successful, please wait patiently for the device to reboot.<br/>Note: <br/>After the device reboots and turns on, it will broadcast the device code, please make sure to remember the device code broadcasted by the device! |
 
 
