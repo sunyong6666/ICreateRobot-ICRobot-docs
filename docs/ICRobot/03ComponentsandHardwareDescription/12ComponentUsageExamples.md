@@ -12,7 +12,7 @@ Steps:
 2. Connect the other end of the Grove cable to any Grove port on the ICRobot. In this example, we use Port 2 (refer to position "②" above).
 
 ## Example: Launching Marbles 
-**Program Description: **When the green flag is clicked, repeat the execution: Launcher 1 launches 1 marble and waits for 4 seconds.
+**Program Description:** When the green flag is clicked, repeat the execution: Launcher 1 launches 1 marble and waits for 4 seconds.
 
 **Program**
 
