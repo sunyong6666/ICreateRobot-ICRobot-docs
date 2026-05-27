@@ -1,4 +1,4 @@
-OperationManual
+ConnectionMethod
 ========================
 .. toctree::
 
