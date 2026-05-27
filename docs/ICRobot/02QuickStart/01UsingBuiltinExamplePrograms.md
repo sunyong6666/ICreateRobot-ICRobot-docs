@@ -18,7 +18,7 @@ Note: In download mode on the software, the built-in sample programs can be repl
 
 ## Descriptions of 5 Built-in Programs</font>
 ### <1> : Line-Following Robot
-**Program Introduction: **After entering the program, the robot does automatic line patrol.
+**Program Introduction:** After entering the program, the robot does automatic line patrol.
 
 Built-in Code Overviews
 
@@ -145,11 +145,11 @@ def get_all_bluetooth_data():
     global Lshoulder, Rshoulder, Ltrigger, Rtrigger
     global R_Rocker, L_Rocker
     if ble.flag:
-        # 假设接收到的数据（字节数组）
+
         temporary = ble.BLE_MESSAGE
         
         if temporary and temporary[0] == 0xff:
-            # 解析数据
+         
             R_Rocker["x"] = temporary[1] if temporary[1] <= 127 else temporary[1] - 256
             R_Rocker["y"] = temporary[2] if temporary[2] <= 127 else temporary[2] - 256
 
@@ -177,9 +177,9 @@ def get_all_bluetooth_data():
                          
 while True:
     get_all_bluetooth_data()
-    # 控制前后运动（通过右摇杆 Y 轴）
-    l_speed = 0  # 左轮速度
-    r_speed = 0  # 右轮速度
+
+    l_speed = 0  
+    r_speed = 0  
     lx = L_Rocker["x"]
     ly = L_Rocker["y"]
     if Ltrigger == 1 or Rtrigger == 1:
@@ -196,7 +196,7 @@ while True:
         r_speed = ly - lx
         l_speed = max(-100, min(100, l_speed))
         r_speed = max(-100, min(100, r_speed))
-    # 调用 uart.send_move() 控制小车
+    
     icrobot.motor.drive(l_speed,r_speed)
     time.sleep_ms(100)
 ```
