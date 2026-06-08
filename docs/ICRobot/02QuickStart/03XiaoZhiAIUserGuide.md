@@ -39,7 +39,6 @@ Line Tracking: When controlling line tracking by voice, press the middle power b
 2. Power on ICRobot.
 3. Give a voice command, e.g., “Hello XiaoZhi, move forward for 5 seconds.”
 
-Note: After startup, the system defaults to single-dialogue mode. To switch between single and continuous dialogue modes, say: **“Switch to (continuous/single) dialogue mode.”**
 
 
 
@@ -60,7 +59,7 @@ In AI interaction mode, ICRobot supports natural speech-based dialogue, allowing
 2. Power on ICRobot.
 3. Say “Hello XiaoZhi” to activate the dialogue and start Q&A interaction.
 
-Note: The system starts in single-dialogue mode by default. To toggle between single and continuous dialogue modes, say: **“Switch to (continuous/single) dialogue mode.”**
+
 
 
 
