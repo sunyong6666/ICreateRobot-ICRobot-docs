@@ -1,4 +1,4 @@
-# Firmware Switching
+# Firmware Programing
 ## Instructions
 ICRobot provides two modes of use: programming and Xiaozhi AI, and the factory default is programming mode. If you need to switch to Xiaozhi AI mode, you need to update its internal firmware. Please refer to this document for specific operation steps.
 
