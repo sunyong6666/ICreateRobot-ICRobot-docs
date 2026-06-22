@@ -5,7 +5,7 @@
 If you need to update the firmware version of the ICRobot robot, please refer to this document for detailed instructions.
 
 ## Steps
-|!(img/S1.png)||
+|![](img/S1.png)||
 |:-:|:-:|
 |Step 1: Connect the device. Plug the ICRobot into the computer and power it on.||
 |![](img/S2.png)|![](img/S3.png)|
