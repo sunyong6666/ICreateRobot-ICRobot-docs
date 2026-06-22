@@ -1,4 +1,4 @@
-## Firmware Flashing
+# Firmware Flashing
 
 ## Instructions
 
