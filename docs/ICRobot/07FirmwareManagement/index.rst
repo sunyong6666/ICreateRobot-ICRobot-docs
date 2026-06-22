@@ -4,6 +4,6 @@ FirmwareManagement
 
 
 
-   01FirmwareSwitching.md
+   01FirmwareFlashing.md
    02FirmwareUpgrade.md
    03FirmwarePrograming.md
