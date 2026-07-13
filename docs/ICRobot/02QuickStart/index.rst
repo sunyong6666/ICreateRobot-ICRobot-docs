@@ -8,3 +8,4 @@ QuickStart
    02ProgrammingtheRobotviaSoftware.md
    03XiaoZhiAIUserGuide.md
    04DownloadingBuiltinExamplePrograms.md
+   05BluetoothRemoteControlGuide.md
