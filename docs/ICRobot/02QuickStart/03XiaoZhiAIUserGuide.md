@@ -2,11 +2,11 @@
 ## Preparation
 Step 1: Switch the ICRobot to XiaoZhi AI Mode.
 
-Refer to the Firmware Switching Instructions for mode switching guidance.
+For mode switching instructions, refer to the[Firmware Switching Guide](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/07FirmwareManagement/03FirmwareSwitching.html).
 
 Step 2: Complete the XiaoZhi AI Configuration.
 
-Refer to the XiaoZhi AI Configuration Tutorial for setup steps.
+For configuration instructions, refer to the [XiaoZhi AI Configuration Guide](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/02XiaoZhiAIConfigurationGuide.html).
 
 The XiaoZhi AI functions can only be used after completing all the above steps.
 
