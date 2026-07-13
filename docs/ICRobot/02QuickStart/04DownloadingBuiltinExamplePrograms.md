@@ -2,7 +2,7 @@
 **The robot can be connected to the computer via Serial Port, Bluetooth, STA, or AP mode. This guide uses the Serial Port connection as an example.**
 
 ##   Required Tools   
-| ![](img/D001.png) | ![](img/D002.png.png) | ![](img/D003.png) | ![](img/D004.png) |
+| ![](img/D001.png) | ![](img/D002.png) | ![](img/D003.png) | ![](img/D004.png) |
 | :---: | :---: | :---: | :---: |
 | computer | ICreateCode | ICRobot |  USB-C cable   |
 
