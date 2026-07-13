@@ -44,7 +44,7 @@
 | Step 1: Power on the ICRobot. | Step 2: Press the Left Button repeatedly until the screen displays <SET>. Then press the Middle Button to confirm and enter the settings mode.  |
 | ![](img/B16.png) | ![](img/B17.png) |
 | Step 3: In the settings mode, press the Left Button or Right Button to select the connection mode. When BT is displayed, press the Middle Button to confirm <br/>and switch to Bluetooth connection mode.   | Step 4: No manual operation is required. The ICRobot will automatically provide a voice prompt.<br/>+  Voice prompt: "Switching to Bluetooth mode."   <br/>The robot will wait for the mode switch to complete. <br/>or<br/>+  Voice prompt: "The current mode is Bluetooth mode. No switching is required." No waiting is required, and the robot can be used directly. |
-| ![](img/B17.png) | ![](img/B18.png) |
+| ![](img/B18.png) | ![](img/B19.png) |
 | Step 5: Follow the Bluetooth Controller Pairing Instructions to pair the Bluetooth controller with the ICRobot.<br/>During the pairing process, the ICRobot will provide a voice prompt indicating the connection status.<br/>+  Voice prompt: "Bluetooth connection successful."<br/>or<br/>+  Voice prompt: "Bluetooth connection failed." | tep 6: According to the program selection instructions, switch to Program 4. When the screen displays the controller icon, the program is ready.<br/>After the Bluetooth connection is successfully established, the ICRobot can be controlled through the Android application.<br/> |
 
 
