@@ -3,7 +3,7 @@
 When programming the robot, ICRobot interacts and communicates with the ICreateCode programming software through certain connections.
 
 ## Connection Methods
-There are two available wireless connection modes between ICRobot and the ICreateCode platform: Access Point Mode (AP) and Station Mode (STA)
+There are four available wireless connection modes between ICRobot and the ICreateCode platform: [Access Point Mode (AP)](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/01AccessPointModeAPMode.html) 、 [Station Mode (STA)](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/02StationModeSTA.html) 、[Bluetooth Mode(BT Mode)](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/03BluetoothModeBTMode.html) 、[Serial Connection]()
 
 For setup instructions, refer to the guide on AP Mode and STA Mode configuration.
 
