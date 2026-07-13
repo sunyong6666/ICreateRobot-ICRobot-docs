@@ -15,7 +15,7 @@ Whether in a school's STEAM classroom, an education and training center, or a fa
 | <br/>![](img/IN5.png) | <br/>![](img/IN6.png) | <br/><br/>![](img/IN7.png) |
 | Visual Recognition Cards | Map | Ammo Balls |
 | <br/>![](img/IN8.png) | <br/>![](img/IN9.png) | <br/>![](img/IN10.png) |
-| USB-C Cable | Grove Cable | Extended Ammo Magazine |
+| USB-C Cable | Grove Cable | Extended Ammo<br/> Magazine |
 | ![](img/IN11.png) | ![](img/IN12.png) |  |
 | Magazine Lock Clip | Building Block Set |  |
 
