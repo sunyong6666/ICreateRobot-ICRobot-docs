@@ -7,3 +7,4 @@ QuickStart
    01UsingBuiltinExamplePrograms.md
    02ProgrammingtheRobotviaSoftware.md
    03XiaoZhiAIUserGuide.md
+   04DownloadingBuiltinExamplePrograms.md
