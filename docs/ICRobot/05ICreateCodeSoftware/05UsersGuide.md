@@ -70,7 +70,7 @@ Using STA Mode, ICRobot connects to the PC. After downloading, the robot drives 
 |![](img/UG20.gif) |![](img/UG21.gif)|
 | :---: | :---: |
 |Step 1: Power on ICRobot. Switch to SET Mode, then select STA Mode.|Step 2: Open ICreateCode and choose STA as the connection method. Generate the corresponding QR code. |
-|![](img/UG22.png) |![](img/UG23.gif) |
+|![](img/UG22.JPG) |![](img/UG23.gif) |
 |Step 3: Use the robot's camera to scan the QR code displayed on the screen.<br/>Upon hearing “Connection successful” and seeing “Socket connected” on the screen, the device is ready. |Step 4:<br/>Create the desired program using drag-and-drop blocks. ||
 |![](img/UG24.gif) |![](img/UG25.gif) |
 |Step 5: Select Slot 3, then click Download. Wait for the message “Download successful.”|Step 6: Press the robot’s left/right buttons to switch to Program 3, then press  <br/>the power button to execute the program. |
