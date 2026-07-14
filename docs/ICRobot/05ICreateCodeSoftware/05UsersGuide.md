@@ -1,11 +1,11 @@
 # User's Guide
 ## Interactive Mode（Live Mode）
 ### Usage Introduction
-In Interactive Mode, ICRobot connects to the PC via AP or STA wireless mode for real-time programming and control.
+In Interaction Mode, the ICRobot can establish communication with a PC via Serial Port, Bluetooth, AP Mode, or STA Mode, allowing users to program and control the robot to perform various actions.  
 
 ### Steps
 ![](img/UG01.gif) 
-Step 1: Power on both the ICRobot and the ICreate Code software. Switch the software to "Interactive Mode", then select the device and connection method (refer to the AP or STA connection instructions).
+Step 1: Power on both the ICRobot and the ICreate Code software. Switch the software to "Interactive Mode", then select the device and connection method (refer to the [AP](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/01AccessPointModeAPMode.html) or [STA](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/02StationModeSTA.html) or [BT](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/03BluetoothModeBTMode.html) or [Serial Connection](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/04SerialConnection.html) instructions).
 ![](img/UG02.png) 
 Step 2: Once successfully connected, the block command area will automatically load ICRobot-related extension blocks. 
 ![](img/UG03.png) 
