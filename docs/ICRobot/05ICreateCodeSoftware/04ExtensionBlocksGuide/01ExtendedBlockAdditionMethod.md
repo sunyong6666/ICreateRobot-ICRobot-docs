@@ -12,6 +12,6 @@ _**Note: Extensions can only be used in Interactive Mode.**_
 | --- | --- |
 | Step 1: Open the software and make sure you are in ICRobot Mode. | Step 2: Click the “![](img/E3.png)” button at the lower-left corner of the screen. |
 | ![](img/E4.png) | ![](img/E5.png) |
-| Step 3: In the extension window, select the block you wish to add. | Step 4: Once added successfully, the new blocks will appear in the Block Instruction Area. |
+| Step 3: In the extension window, select the block you wish to add. | Step 4: Once added successfully, the new blocks will appear in the Block <br/>Instruction Area. |
 
 
