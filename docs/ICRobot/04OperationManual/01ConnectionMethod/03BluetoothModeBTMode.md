@@ -32,7 +32,7 @@ Scan the QR code or visit the[ ICreateRobot](https://drive.google.com/drive/fold
 ### Preparation
 | ![](img/BL14.png) | ![](img/BL15.png) |
 | :---: | :---: |
-| ICRobot  | ICRobot Multifunctional Bluetooth Handle |
+| ICRobot  | ICRobot Multifunctional<br/> Bluetooth Handle |
 
 
 ### Steps
