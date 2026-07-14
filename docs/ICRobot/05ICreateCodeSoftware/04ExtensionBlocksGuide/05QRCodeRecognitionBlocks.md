@@ -13,7 +13,7 @@ Enable the QR code recognition.
 Disable QR Code Recognition Mode
 
 ## QR code detected?
-![]img/Q4.png)
+![](img/Q4.png)
 
 Determine whether the QR code is recognised or not
 
