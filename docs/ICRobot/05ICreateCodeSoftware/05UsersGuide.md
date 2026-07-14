@@ -49,7 +49,7 @@ Download the program into one of ICRobot's five internal storage positions.
 Based on the program content, the robot will perform the corresponding action commands.
 
 ### Steps
-|![](img/UG13.gif) |![](img/UG14.png) |
+|![](img/UG03.gif) |![](img/UG14.png) |
 | :---: | :---: |
 |Step 1: Power on both the ICRobot and the programming software. In the software, switch the mode to Interaction Mode,<br/> select your device, and choose the connection method ((refer to the [AP](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/01AccessPointModeAPMode.html) or [STA](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/02StationModeSTA.html) or [BT](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/03BluetoothModeBTMode.html) or [Serial Connection](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/04SerialConnection.html) instructions)).|Step 2: Once connected, the Block Instruction area will automatically load ICRobot-specific extension blocks. |
 |![](img/UG15.gif) |![](img/UG16.gif) |
