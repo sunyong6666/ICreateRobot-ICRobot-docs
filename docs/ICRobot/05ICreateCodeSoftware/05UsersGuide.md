@@ -4,14 +4,11 @@
 In Interaction Mode, the ICRobot can establish communication with a PC via Serial Port, Bluetooth, AP Mode, or STA Mode, allowing users to program and control the robot to perform various actions.  
 
 ### Steps
-![](img/UG01.gif) 
-Step 1: Power on both the ICRobot and the ICreate Code software. Switch the software to "Interactive Mode", then select the device and connection method (refer to the [AP](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/01AccessPointModeAPMode.html) or [STA](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/02StationModeSTA.html) or [BT](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/03BluetoothModeBTMode.html) or [Serial Connection](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/04SerialConnection.html) instructions).
-![](img/UG02.png) 
-Step 2: Once successfully connected, the block command area will automatically load ICRobot-related extension blocks. 
-![](img/UG03.png) 
-Step 3: Drag the blocks into the coding area to start coding.
-![](img/UG04.png) 
-Step 4: After programming is complete, click the green flag to execute the program and observe the result. 
+|![](img/UG01.gif) |![](img/UG02.png) |
+| :---: | :---: |
+|Step 1: Power on both the ICRobot and the ICreate Code software. Switch the software to "Interactive Mode", then select the device and connection method (refer to the [AP](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/01AccessPointModeAPMode.html) or [STA](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/02StationModeSTA.html) or [BT](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/03BluetoothModeBTMode.html) or [Serial Connection](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/04SerialConnection.html) instructions).|Step 2: Once successfully connected, the block command area will automatically load ICRobot-related extension blocks. |
+|![](img/UG03.png) |![](img/UG04.png)|
+|Step 3: Drag the blocks into the coding area to start coding.|Step 4: After programming is complete, click the green flag to execute the program and observe the result. |
 
 
 ### Example
@@ -19,12 +16,13 @@ Step 4: After programming is complete, click the green flag to execute the progr
 Using AP mode, ICRobot connects to the PC and moves forward at full power for 1 second, then activates its robotic gripper once.
 
 #### Preparation
-![](img/UG05.png) 
-A computer (Windows/macOS)
-![](img/UG06.png) 
-ICreateCode Software 
-![](img/UG07.png) 
-ICRobot 
+|![](img/UG05.png) |![](img/UG06.png) |![](img/UG07.png) |
+| :---: | :---: | :---: |
+|A computer (Windows/macOS)|ICreateCode Software |ICRobot |
+
+
+
+
 
 
 #### Steps
