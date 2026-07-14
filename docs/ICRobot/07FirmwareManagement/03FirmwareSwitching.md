@@ -24,5 +24,5 @@ When the device is running in Xiaozhi mode, you can switch back to the Standard 
 | --- | --- |
 | 1. Power on the device running the Xiaozhi Edition firmware. | 2. Press the ▶ button / B button three times consecutively. |
 | ![](img/A7.gif) ||
-| 3. The display will show the switching progress. Once the device prompts “Please scan the QR code to connect to the network,” the switch is complete. For usage instructions, please refer to the [Robot Programming User Guide](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/02QuickStart/02ProgrammingtheRobotviaSoftware.html) | |
+| 3. The display will show the switching progress.<br/> Once the device prompts “Please scan the QR code to connect to the network,” br/<>the switch is complete. For usage instructions, <br/>please refer to the [Robot Programming User Guide](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/02QuickStart/02ProgrammingtheRobotviaSoftware.html) | |
 
