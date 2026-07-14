@@ -406,7 +406,7 @@ Example:
 ![](img/B87.png)
 
 ### Stop auto line following
-![](img/B88.png)
+![](img/B88png.png)
 
 Stop line-following behavior.
 
@@ -417,102 +417,102 @@ Example:
 ## External Microbit Module
 ### Port () Servo rotates to () degrees
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B90.png)
+![](img/B90.png)
 
 Set servo rotation degree
 
 ### **Port ()** Set the servo motor to **()**
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B91.png)
+![](img/B91.png)
 
 Set servo motor mode
 
 ### **Port ()** Servo motor rotates at a speed of **()**
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B92.png)
+![](img/B92.png)
 
 Set motor rotation speed
 
 ### **Port ()** Servo motor rotates at a speed of **() for () seconds**
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B93.png)
+![](img/B93.png)
 
  Set motor rotation speed and time
 
 ### Port () Servo motor rotates at speed **()** to **()** degrees  
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B94.png)
+![](img/B94.png)
 
 Set motor rotation speed and rotate to a fixed angle
 
 ### Port () servor motor rotates at speed () for () degrees
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B95.png)
+![](img/B95.png)
 
 Set motor rotation speed and angle
 
 ### Port () servor motor stop
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B96.png)
+![](img/B96.png)
 
 Set motor to stop rotation
 
 ### Port () Get current angle
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B97.png)
+![](img/B97.png)
 
 Get current angle
 
 ### **Port ()** Laser sensor set to **() **brightness **()**
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B98.png)
+![](img/B98.png)
 
 Set laser sensor brightness and switch state
 
 ### Port () fan runs at a speed of () ()
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B99.png)
+![](img/B99.png)
 
 Set fan speed and switch state
 
 ### Port（）（）（sensor）
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B100.png)
+![](img/B100.png)
 
 Set sensor switch state
 
 ### **Port ()** Detects joystick **()**
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B101.png)
+![](img/B101.png)
 
 Judge joystick state
 
 ### Port () Joystick () direction
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B102.png)
+![](img/B102.png)
 
 Get joystick X or Y direction value
 
 ### Port () Ultrasonic sensor distance
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B103.png)
+![](img/B103.png)
 
 Get ultrasonic sensor distance value
 
 ### **Port ()** Potentiometer
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B104.png)
+![](img/B104.png)
 
 Get potentiometer sensor value
 
 ### Port () Hall sensor
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B105.png)
+![](img/B105.png)
 
 Get Hall sensor value
 
 ### Port () PIR sensor
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B106.png)
+![](img/B106.png)
 
 Get human infrared sensor value
