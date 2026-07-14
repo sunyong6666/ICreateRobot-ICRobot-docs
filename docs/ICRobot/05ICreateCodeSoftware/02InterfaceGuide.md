@@ -19,6 +19,8 @@
 | ⑤ | Mode | Switch between Live Mode and Download Mode |
 | ⑥ | Settings | Change settings for language, theme colour, desktop content, as well as serial connection, Bluetooth connection, firmware burning, WiFi QR code generation, and WiFi connection function selection |
 | ⑦ | Help | View Desktop Setup Guide, Privacy Policy, About, Source Code Info, Donation Page |
+| ⑧ | Open AI Mode | The AI conversation-based feature for generating building block code is currently in the testing phase and has not yet been officially released for use. |
+
 
 
 ## Editing Interface
