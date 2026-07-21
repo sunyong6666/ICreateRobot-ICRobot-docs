@@ -30,7 +30,9 @@ Users can control the robot to start, stop, turn, or adjust speed simply through
 
 Notes:
 
-Motion Commands: Avoid using “keep moving (forward/backward/left/right)” commands, as continuous movement may cause recognition errors and be difficult to stop. If this command is used, you can press the middle button to stop movement.
+Motion Commands: 
+1. Avoid using “keep moving (forward/backward/left/right)” commands, as continuous movement may cause recognition errors and be difficult to stop. If this command is used, you can press the middle button to stop movement.
+2. Note: For a single command execution, regardless of the motion unit specified in the command, the actual movement duration of the machine shall not exceed 10 seconds.
 
 Line Tracking: When controlling line tracking by voice, press the middle power button to stop tracking.
 
