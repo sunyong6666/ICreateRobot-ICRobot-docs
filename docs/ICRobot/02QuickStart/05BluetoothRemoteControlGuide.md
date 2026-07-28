@@ -17,7 +17,9 @@
 
 
 ###  Software Download  
- The programming software installation package (for Android devices) can be downloaded by scanning the QR code below or by visiting the following website.  
+ Click here to download the Android software package👉[ICRemote.zip](https://icreate-help-center.yuque.com/attachments/yuque/0/2026/zip/43021771/1785210973627-d647a83f-29dc-437a-ad88-b878581a169b.zip)
+
+  
 
 ###  Operating Procedure  
 | ![](img/B04.png) | ![](img/B05.png) |
