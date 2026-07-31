@@ -1,6 +1,6 @@
 # Software Installation – ICreateCode
 ## System Requirements
-The ICreateCode programming software supports both Windows and macOS platforms.
+The ICreateCode programming software supports Windows .
 
 Windows: Requires 64-bit Windows 10 or later;
 
