@@ -7,7 +7,7 @@ In AP Mode, the ICRobot acts as a wireless hotspot. The PC searches for and conn
 ## Preparation
 | ![](img/AC02.png) | ![](img/AC03.png) | ![](img/AC04.png) |
 | :---: | :---: | :---: |
-| A computer <br/>(Windows/macOS) | ICreateCode software | ICRobot |
+| A computer <br/>(Windows) | ICreateCode software | ICRobot |
 
 
 ## Steps
