@@ -63,7 +63,7 @@ Using STA Mode, ICRobot connects to the PC. After downloading, the robot drives 
 #### Preparation
 |![](img/UG05.png) |![](img/UG06.png) |![](img/UG07.png) |
 | :---: | :---: | :---: |
-|A computer <br/>(Windows/macOS)|ICreateCode Software |ICRobot |
+|A computer <br/>(Windows)|ICreateCode Software |ICRobot |
 
 
 #### Steps
