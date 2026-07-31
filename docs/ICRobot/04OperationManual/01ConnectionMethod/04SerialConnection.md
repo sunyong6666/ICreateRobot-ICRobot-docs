@@ -2,7 +2,7 @@
 ## Preparation
 | ![](img/S1.png) | ![](img/S2.png) | ![](img/S3.png) | ![](img/S4.png) |
 | :---: | :---: | :---: | :---: |
-| A computer <br/>(Windows/macOS) | ICreateCode | ICRobot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | USB-C Cable 
+| A computer <br/>(Windows) | ICreateCode | ICRobot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | USB-C Cable 
 
 
 ## Steps
