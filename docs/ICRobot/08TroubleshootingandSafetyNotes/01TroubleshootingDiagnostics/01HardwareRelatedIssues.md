@@ -31,6 +31,11 @@
 + After the sensor finishes blinking, the learning is complete.
 + If the issue persists, contact customer support.
 
-## The camera or microphone is not functioning properly.
-+ Please check whether the privacy switch at the bottom of the robot is turned on. The camera and microphone can only function normally when the privacy switch is enabled.
+## Xiaozhi Mode: Long Wait Before “Entering Network Configuration Mode”
+
+This issue generally occurs in the following situation: the machine has previously been connected to a network, but the network environment needs to be changed.
+
+In Xiaozhi Mode, the machine searches for previously connected networks to determine whether any available network can be connected to. If none of the saved networks can be connected to, the machine prompts “Entering Network Configuration Mode.” This process takes approximately 1 minute.
+
+If you do not want to wait for 1 minute, you can press the A button three times consecutively (the ◀️ button, located on the left side of the machine relative to its direction of movement) to exit the network search process and quickly enter the state where the machine prompts “Entering Network Configuration Mode.”
 
