@@ -1,8 +1,8 @@
 ## Software-Related Issues
 
-## Robot issues persist after firmware upgrade via “ICreateCode.exe”
+## Robot issues persist after firmware upgrade via “ICreateCode”
 
-* It may be that the in-app firmware has not been updated, please try to update the software application, refer to Software Installation.
+* It may be that the in-app firmware has not been updated, please try to update the software application, refer to [Software Installation](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/05ICreateCodeSoftware/01SoftwareInstallationICreateCode.html).
 
 ## After the computer goes black screen and restarts, the communication between the robot and the computer fails, such as: the program cannot control the robot, the computer cannot obtain the return data, etc.
 
