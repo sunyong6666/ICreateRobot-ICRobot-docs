@@ -6,7 +6,7 @@
 
 
 ## Steps
-| ![](img/SS3.png) | ![](img/S5.png) |
+| ![](img/SS3.gif) | ![](img/S5.png) |
 | :---: | :---: |
 | Step 1: After turning on the robot, switch the robot to **USB mode**. | Step 2. After powering on the robot, connect the robot to the computer using a USB-C data cable. | 
 | ![](img/S6.gif) | ![](img/S7.gif) |
