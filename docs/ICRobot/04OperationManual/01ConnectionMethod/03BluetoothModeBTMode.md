@@ -28,7 +28,6 @@ Note: Make sure that Bluetooth is enabled on the computer.
 
 Note: If the computer does not have Bluetooth, you can purchase a Wi-Fi 6 wireless network adapter with built-in Bluetooth support and dual-band 5 GHz Wi-Fi transmission/reception capabilities. The model mentioned here is for reference only; you may also choose another compatible model according to your needs.
 
-&#x20;<!-- 这是一张图片，ocr 内容为： -->
-
-!\[](img/B8.png)
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/B8.png)
 
