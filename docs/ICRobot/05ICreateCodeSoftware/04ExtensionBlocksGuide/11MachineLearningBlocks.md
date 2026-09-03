@@ -44,7 +44,7 @@ Train two machine learning models and use programming logic to make the characte
 | --- | --- |
 | Step 1: Connect ICRobot to the programming software (refer to AP/STA connection method). | Step 2: Add the Machine Learning Extension. |
 | ![](img/M10.gif) | ![](img/M11.gif) |
-| Step 3: Click "Start Training Model" to select the training type: image recognition, gesture recognition, or pose recognition.   <br/>Image recognition is used as an example here.| Step 4: Choose to Create a New Project or Import an Existing Project. |
+| Step 3: Click "Start Training Model" to select the training type: <br/>image recognition, gesture recognition, or pose recognition.   <br/>Image recognition is used as an example here.| Step 4: Choose to Create a New Project or Import an Existing Project. |
 | ![](img/M12.png) | ![](img/M13.png) |
 | Step 5: Click the camera icon under each category to enable the corresponding camera. | Step 6: Continuously capture training images using the camera. |
 | ![](img/M14.gif) |  |
