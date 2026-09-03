@@ -36,16 +36,18 @@ Return the confidence score for the specified category.
 
 ## Example
 Train two machine learning models and use programming logic to make the character respond differently based on which model is successfully recognized.
+*Note: If the trained model is referenced in the program, the trained model can be used directly when the project is saved locally and later reopened and imported into the programming software. Retraining is not required.*
+
 
 ## Operation Steps
 | ![](img/M8.gif) | ![](img/M9.gif) |
 | --- | --- |
 | Step 1: Connect ICRobot to the programming software (refer to AP/STA connection method). | Step 2: Add the Machine Learning Extension. |
-| ![](img/M10.gif) | ![](img/M11.png) |
+| ![](img/M10.gif) | ![](img/M11.gif) |
 | Step 3: Click "Start Training Model" to select the training type: image recognition, gesture recognition, or pose recognition. | Step 4: Choose to Create a New Project or Import an Existing Project. |
 | ![](img/M12.png) | ![](img/M13.png) |
 | Step 5: Click the camera icon under each category to enable the corresponding camera. | Step 6: Continuously capture training images using the camera. |
-| ![](img/M14.png) |  |
+| ![](img/M14.gif) |  |
 | Step 7: Click the "Train Model" button to begin training.<br/>If you want to save the project, click “Export Project” in the top-right corner.<br/>Click "Use Model" in the bottom-right corner to return to the block programming interface. |  |
 
 
