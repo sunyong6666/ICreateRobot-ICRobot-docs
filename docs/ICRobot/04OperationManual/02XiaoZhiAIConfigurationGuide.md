@@ -2,7 +2,7 @@
 ## Instructions
 ICRobot Xiaozhi AI  mode, two steps are required before use.
 
-Step 1. Switch the ICRobot internal firmware to Xiaozhi AI, the method can refer to the firmware switching.
+Step 1. Switch the ICRobot internal firmware to Xiaozhi AI, the method can refer to [the firmware switching](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/07FirmwareManagement/03FirmwareSwitching.html).
 
 Step 2. Connect ICRobot to configure the network operation, details can refer to the contents of this document.
 
