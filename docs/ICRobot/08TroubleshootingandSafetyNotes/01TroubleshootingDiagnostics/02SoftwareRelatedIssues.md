@@ -13,13 +13,13 @@
 ## STA mode network connection failure
 
 * Possible Causes and Solutions:
-* The mobile hotspot may be set to 5GHz. Please ensure it is set to 2.4GHz. Refer to Connection Method / Station Mode (STA).
+* The mobile hotspot may be set to 5GHz. Please ensure it is set to 2.4GHz. Refer to [Connection Method / Station Mode (STA)](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/02StationModeSTA.html).
 * Check whether the computer has a wireless network card. Keep the mobile hotspot enabled during the process.
 
 ## Device name not displayed in AP mode
 
 * Possible Causes and Solutions:
-* The computer may not have refreshed the network list. Go to Settings ➡️ Network \& Internet ➡️ WLAN, turn it off and then back on, refresh the network list, then return to the software to reconnect.Refer to Connection Method / Access Point Mode (AP).
+* The computer may not have refreshed the network list. Go to Settings ➡️ Network \& Internet ➡️ WLAN, turn it off and then back on, refresh the network list, then return to the software to reconnect.Refer to [Connection Method / Access Point Mode (AP)](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/01AccessPointModeAPMode.html).
 * Check whether the computer has a wireless network card and ensure WLAN is enabled.
 
 ## COM port not found during firmware switch
