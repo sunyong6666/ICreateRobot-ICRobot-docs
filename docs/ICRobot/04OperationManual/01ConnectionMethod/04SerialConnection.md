@@ -6,10 +6,10 @@
 
 
 ## Steps
-| ![](img/S5.png) | ![](img/S6.gif) |
+| ![](img/SS3.png) | ![](img/S5.png) |
 | :---: | :---: |
-| Step 1. After powering on the robot, connect the robot to the computer using a USB-C data cable.   | Step 2. Open the programming software on the computer, click "Select Device", and choose ICRobot. |
-| ![](img/S7.gif) | |
-| Step 3. In the "Serial" option, select the correct port number, then click "Connect". | |
+| Step 1: After turning on the robot, switch the robot to **USB mode**. | Step 2. After powering on the robot, connect the robot to the computer using a USB-C data cable. | 
+| ![](img/S6.gif) | ![](img/S7.gif) |
+| Step 3. Open the programming software on the computer, click "Select Device", and choose ICRobot. | Step 4. In the "Serial" option, select the correct port number, then click "Connect". |
 
 
