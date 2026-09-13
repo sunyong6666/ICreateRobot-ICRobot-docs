@@ -16,13 +16,14 @@ After flashing the Standard Edition firmware, the device will boot into the Stan
 
 ## Switching from Xiaozhi Edition Firmware to Standard Edition Firmware
 
-When the device is running in Xiaozhi mode, you can switch back to the Standard Edition by pressing the ▶ button / B button three times consecutively while the device is not in standby mode.
+When the machine is in **Xiaozhi Version** mode, to switch to the **Standard Version**, turn on the machine, use the ◀️ ▶️ buttons or the 🅰️ 🅱️ buttons to switch to the **Code** interface, and then press the Power button to switch versions.
+
 
 **Operation Steps**
 
-| ![](img/A5.gif) |![](img/A6.png)|
+| ![](img/A5.gif) |![](img/A6.gif)|
 | --- | --- |
-| 1. Power on the device running the Xiaozhi Edition firmware. | 2. Press the ▶ button / B button three times consecutively. |
+| 1. Power on the device running the Xiaozhi Edition firmware. | 2. Use the ◀️ ▶️ buttons or the 🅰️ 🅱️ buttons to switch to the **Code** interface and select the desired option. |
 | ![](img/A7.gif) ||
 | 3. The display will show the switching progress.<br/> Once the device prompts “Please scan the QR code to connect to the network,” br/<>the switch is complete. For usage instructions, <br/>please refer to the [Robot Programming User Guide](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/02QuickStart/02ProgrammingtheRobotviaSoftware.html) | |
 
