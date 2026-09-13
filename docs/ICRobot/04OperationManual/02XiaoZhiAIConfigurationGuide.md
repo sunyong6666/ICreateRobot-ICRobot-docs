@@ -11,6 +11,7 @@ Step 2. Connect ICRobot to configure the network operation, details can refer to
 When using the backend for the first time, you must register and log in using a mobile phone number. Otherwise, you will not be able to access the backend.
 
 **Recommendation:**
+
 **Step 1:** Complete the backend registration first. After adding the console, remain on the verification code entry screen. For detailed instructions, refer to the **Backend Registration** section below.
 
 **Step 2:** Power on the device. After startup, the device will prompt **“Entering network configuration mode.”**
@@ -46,7 +47,7 @@ _Note: If the device has already been configured with a network connection, but 
 
 
 
-### Register & Bind Device
+### Backend Registration
 | ![](img/X7.png) | ![](img/X8.png) |
 | --- | --- |
 | Open a browser and go to:<br/>🔗 [https://xiaozhi.me/](https://xiaozhi.me/)<br/>Click “Console” to enter the management dashboard. | Register with your mobile phone number and verification code.    |
