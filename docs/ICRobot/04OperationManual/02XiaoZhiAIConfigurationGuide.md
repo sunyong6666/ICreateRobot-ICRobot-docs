@@ -38,10 +38,10 @@ _Note: If the device has already been configured with a network connection, but 
 
 
 ###  Reset Network  
-|![](img/WIFI1.gif) | ![](img/WIFI12.gif) |
+|![](img/WIFI1.gif) | ![](img/WIFI2.gif) |
 | --- | --- |
 | **Step 1:** Power on the machine in **Xiaozhi Mode**. | **Step 2:** Use the ◀️ ▶️ buttons or the 🅰️ 🅱️ buttons to switch to the screen displaying **“WIFI”**, and select it. |
-| ![](img/WIFI13.gif) |  |
+| ![](img/WIFI3.gif) |  |
 | **Step 3:** The machine will announce “Entering network configuration mode”. <br/>Then, follow the steps described in **Network Configuration** above to connect the machine to a new network. | |
 
 
