@@ -13,7 +13,7 @@
 | No. | Name | Function Description |
 | :---: | :---: | --- |
 | ① | Select Device | Choose and connect different devices (e.g., ICBricks, ICRobot, ICMaster) |
-| ② | Firmware Burning | Select and burn standard firmware or XiaoZhi AI firmware to ICRobot |
+| ② | Firmware Burning | Select and burn standard firmware to ICRobot |
 | ③ | File | Dropdown menu includes: New Project, Open Local Project, Save As, Export Project, Save Snapshot |
 | ④ | Project | Rename the current project |
 | ⑤ | Mode | Switch between Live Mode and Download Mode |
